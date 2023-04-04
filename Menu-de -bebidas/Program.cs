@@ -104,4 +104,7 @@ switch (bebida)
             Console.WriteLine($"Aqui sua bebida");
         }
         break;
+    default:
+        Console.WriteLine($"A bebida que você escolheu não está no menu, tente novamente");
+        break; 
 }

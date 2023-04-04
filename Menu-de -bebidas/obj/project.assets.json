@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de -bebidas\\Menu-de -bebidas.csproj",
+      "projectUniqueName": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de-Bebidas-Backend\\Menu-de -bebidas\\Menu-de -bebidas.csproj",
       "projectName": "Menu-de -bebidas",
-      "projectPath": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de -bebidas\\Menu-de -bebidas.csproj",
+      "projectPath": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de-Bebidas-Backend\\Menu-de -bebidas\\Menu-de -bebidas.csproj",
       "packagesPath": "C:\\Users\\50849167825\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de -bebidas\\obj\\",
+      "outputPath": "C:\\Users\\50849167825\\Desktop\\backend\\SwitchandCase\\Menu-de-Bebidas-Backend\\Menu-de -bebidas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50849167825\\AppData\\Roaming\\NuGet\\NuGet.Config",
